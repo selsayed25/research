@@ -1,10 +1,17 @@
+import Layout from '../components/layout';
+import utilStyles from '../styles/utils.module.css';
+
 function Error({ statusCode }) {
     return (
-        <p>
-            { statusCode
-                ? `An error ${ statusCode } occurred on server`
-                : 'An error occurred on server'}
-        </p>
+        <Layout>
+            <h1 className={ utilStyles.headingXl }>This is sad 😢</h1>
+            <p>
+                { statusCode
+                    ? `An error ${statusCode} has broke it's way into our website! If the error contiunes, please mark the issue on the Github repository.`
+                    : `An error is lurking around the website. If it still contiunes, please mark the issue on the Github repository.`
+                }
+            </p>
+        </Layout>
     )
 }
 
