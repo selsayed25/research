@@ -1,2 +1,1 @@
-# research
-The official website for Sami Elsayed's research.
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
