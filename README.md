@@ -6,7 +6,8 @@ This is the official website for Sami Elsayed's research.
 
 Start by cloning the git repository:
 
-```$ git clone https://github.com/selsayed25/research.git
+```
+$ git clone https://github.com/selsayed25/research.git
 ```
 
 Once cloned, install all of the required dependencies including ``next``.
