@@ -5,7 +5,7 @@ date: '2024-08-15'
 
 # Understanding Blockchain with a Simple Python Project
 
-Welcome to the inaugural edition of **Codects** — a series dedicated to exploring exciting coding projects and diving deep into emerging technologies. Each week, I'll be tackling a new project, experimenting with different tech concepts, and sharing my journey along the way. For our very first project, we’re taking a look into the world of **blockchain technology** by building a simple blockchain implementation in Python. Let's dive into what blockchain is, how I built the project, and what I learned along the way.
+Welcome to the inaugural edition of **Codects** — a series dedicated to exploring exciting coding projects and diving deep into emerging technologies. Each week, I'll be tackling a new project, experimenting with different tech concepts, and sharing my journey along the way. For my very first project, we’re taking a look into the world of **blockchain technology** by building a simple blockchain implementation in Python. Let's dive into what blockchain is, how I built the project, and what I learned along the way.
 
 ## What is Blockchain?
 
@@ -138,6 +138,7 @@ Embarking on this project had a mix of excitement and challenge. While the theor
 
 ## Moving Forward
 
+Check out the project's GitHub repository [here](https://github.com/selsayed25/simple-blockchain-implementation)!
 
 This project marks the beginning of the **Codects** series. Future projects will delve into various aspects of programming and tech offering both insights and practical applications.
 
